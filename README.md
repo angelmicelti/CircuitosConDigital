@@ -4,7 +4,9 @@ Digital es un simulador de circuitos electrónicos digitales, que yo he ayudado 
 
 Está disponible en [este enlace](https://github.com/hneemann/Digital/).
 
-## **_Circuitos básicos_**
+## **_Circuitos básicos_**. 
+Relacionados con los apuntes de clase, encontramos los siguientes circuitos:
+#### Semisumador
 
 ## **_Ejercicios de clase_**
 
